@@ -16,7 +16,6 @@ cd PokemonBot
 Buat file `.env` di root direktori proyek dan isi dengan konfigurasi berikut:
 ```
 TELEGRAM_BOT_TOKEN=your-telegram-bot-token
-OTHER_ENV_VARIABLES=value
 ```
 > Ganti `your-telegram-bot-token` dengan token bot Telegram Anda. Token ini dapat diperoleh dari [BotFather](https://t.me/botfather).
 
