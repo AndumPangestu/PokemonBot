@@ -1,7 +1,5 @@
 # PokemonBot
 
-Pokemon Bot adalah bot Telegram yang dibuat dengan Node.js untuk memberikan pengalaman interaktif kepada pengguna. Anda dapat mencobanya langsung di [PokemonKeunBot](https://t.me/PokemonKeunBot).
-
 ## Cara Instalasi
 Ikuti langkah-langkah berikut untuk menginstal dan menjalankan proyek ini:
 
