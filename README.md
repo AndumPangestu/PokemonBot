@@ -30,7 +30,7 @@ npm run dev
 ```
 
 ### 5. Uji Bot di Telegram
-Setelah bot berjalan, buka bot Telegram Anda di link berikut: [PokemonKeunBot](https://t.me/PokemonKeunBot).
+Setelah bot berjalan, buka bot Telegram Anda melalui link yang diberikan oleh BotFather, misalnya: https://t.me/NamaBotAnda.
 
 ## Skrip yang Tersedia
 - **`npm install`**: Menginstal semua dependencies proyek.
